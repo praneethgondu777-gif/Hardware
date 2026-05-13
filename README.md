@@ -1,4 +1,4 @@
-# CS224: Extended RV32IM Processor with Mathematical Acceleration Unit (MAU)
+# Extended RV32IM Processor with Mathematical Acceleration Unit (MAU)
 
 ## Overview
 This project presents the design and implementation of an enhanced **3-stage pipelined RV32IM RISC-V processor** integrated with a **Custom Mathematical Acceleration Unit (MAU)** on the Xilinx Artix-7 FPGA platform (Nexys A7).
